@@ -16,3 +16,7 @@ This is a simple C# a command-line utility that monitors the available memory on
     ```
     .\CurrentAvailableMemory.exe
     ```
+
+## Author
+
+Bohdan Harabadzhyu
